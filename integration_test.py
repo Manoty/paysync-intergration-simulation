@@ -22,7 +22,7 @@ PAYSYNC_BASE_URL = "http://127.0.0.1:8000"
 
 def test_isolation_between_systems():
     """
-    Both systems use the same external_reference format.
+    Both systems use the same external_reference format
     Verify PaySync keeps them isolated via source_system.
     """
     print("\n" + "="*60)
