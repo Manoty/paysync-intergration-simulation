@@ -77,7 +77,7 @@ def test_list_filtering():
 
 def test_validation_errors():
     """
-    Verify PaySync rejects invalid inputs cleanly.
+    Verify PaySync rejects invalid inputs cleanly
     External systems receive structured error messages.
     """
     print("\n" + "="*60)
