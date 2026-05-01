@@ -6,8 +6,8 @@ Simulates the Tixora ticketing system's payment flow.
 Scenario:
   Customer selects 2x concert tickets (KES 1,500 each)
   Tixora calls PaySync to initiate payment
-  Tixora polls until payment confirmed or failed
-  Tixora confirms or cancels the ticket reservation
+  Tixora polls until payment confirmed or failed.
+  Tixora confirms or cancels the ticket reservation.
 """
 
 import sys
