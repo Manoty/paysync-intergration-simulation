@@ -2,7 +2,7 @@
 Full PaySync Integration Test
 ==============================
 Runs Tixora and Scott flows against a live PaySync instance.
-Tests the shared infrastructure — both systems using the same
+Tests the shared infrastructure — both systems using the same.
 PaySync API without interfering with each other.
 """
 
